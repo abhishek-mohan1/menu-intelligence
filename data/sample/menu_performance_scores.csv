@@ -1,0 +1,22 @@
+menu_item,performance_score,total_mentions,band,action
+smoothie,1.0,2,🟢 High,⭐ Promote
+kebab,1.0,5,🟢 High,⭐ Promote
+naan,1.0,1,🟢 High,⭐ Promote
+juice,1.0,1,🟢 High,⭐ Promote
+coffee,1.0,7,🟢 High,⭐ Promote
+salad,1.0,3,🟢 High,⭐ Promote
+vegan,0.83,30,🟢 High,⭐ Promote
+biryani,0.79,28,🟢 High,⭐ Promote
+chicken,0.77,22,🟢 High,⭐ Promote
+rice,0.75,12,🟢 High,⭐ Promote
+pizza,0.72,18,🟢 High,⭐ Promote
+dessert,0.7,10,🟢 High,⭐ Promote
+burger,0.67,6,🟢 High,⭐ Promote
+millet,0.62,8,🟢 High,⭐ Promote
+cheese,0.5,6,🟡 Moderate,🔧 Rework / Improve
+pasta,0.5,8,🟡 Moderate,🔧 Rework / Improve
+paneer,0.5,6,🟡 Moderate,🔧 Rework / Improve
+cake,0.4,5,🟡 Moderate,🔧 Rework / Improve
+corn,0.33,6,🟡 Moderate,🔧 Rework / Improve
+wrap,0.0,2,🔴 Poor,❌ Drop / Replace
+wheat,-1.0,1,🔴 Poor,❌ Drop / Replace
